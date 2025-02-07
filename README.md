@@ -1,4 +1,5 @@
 #  **INDIAN GENERAL ELECTIONS RESULT 2024**
+![](https://github.com/dasarijashwanth/INDIA-GENERAL-ELECTION-RESULTS-2024/blob/main/logo.png)
 
 ## 📌 **Overview**
 
@@ -139,9 +140,6 @@ This project contains SQL scripts and queries to analyze the results of the Indi
 - 🏙 **City-wise and district-wise breakdowns.**
 - 🌐 **Integration with live election result updates.**
 
-## 👥 Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements.
-
 ## 🔧 How to Use
 1. **Clone the repository:**
    ```sh
@@ -150,7 +148,10 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 2. **Import the dataset** into your SQL environment.
 3. **Run the provided SQL queries** in sequence to analyze and visualize the election data.
 
+## 👥 Contributing
+Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements.
+
 ## 📚 License
 This project is licensed under the **MIT License**. See the LICENSE file for details.
 
-For more insights, connect with me on **LinkedIn**. 🚀
+For more insights, connect with me on **[LinkedIn](https://www.linkedin.com/in/jashwanthdasari2001/)**. 🚀
