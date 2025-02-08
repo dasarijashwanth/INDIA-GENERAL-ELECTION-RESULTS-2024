@@ -1,5 +1,5 @@
 #  **INDIAN GENERAL ELECTIONS RESULT 2024**
-![](https://github.com/dasarijashwanth/INDIA-GENERAL-ELECTION-RESULTS-2024/blob/main/logo.png)
+![](logo.png)
 
 ## 📌 **Overview**
 
